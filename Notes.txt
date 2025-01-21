@@ -1,0 +1,5 @@
+Use Authentication (User, buyer, vendor)
+Product Management
+Order Management
+Shipping Management
+Payment Integration
